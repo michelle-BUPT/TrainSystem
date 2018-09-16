@@ -1,5 +1,5 @@
 # TrainSystem
-Project for Course Software Engineering Apr. 2014
+Project for Course Software Engineering Apr. 2016
 ## Getting Started
 1. To turn the system, you should first open cmd, and goes into the directory named "code" using "/cd".  
 2. To complie the Identification.java using the command line: javac Identification.java.  
