@@ -9,3 +9,6 @@ Project for Course Software Engineering Apr. 2014
 ## Description
 ### Introduction
 This is a system designed for the company to manage its tourist train journey. According to requirements, we designed severeal functions for different groups of users--administrator, driver and passenger.
+### Functions
+Full description of user manual is attached in the repository named as 'User manual.pdf'.
+
